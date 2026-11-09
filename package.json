@@ -1,0 +1,33 @@
+{
+  "name": "js-common-utils",
+  "version": "1.0.0",
+  "description": "Zero-dependency JavaScript utility collection for arrays, objects, functions, math, strings, async flows and event dispatching.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "keywords": [
+    "utility",
+    "utils",
+    "commonjs",
+    "zero-dependency",
+    "array",
+    "object",
+    "async",
+    "event-bus"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1713yjk/js-common-utils.git"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
